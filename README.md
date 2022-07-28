@@ -6,7 +6,9 @@
 
 ## Description
 
-This is a treasure hunting game where the player controls a treasure hunter to collect relics hidden in a maze. Whenever the treasure hunter reaches the cell with a relic in it, the treasure hunter automatically collects that relic and another relic appears somewhere in the maze. Unfortunate to the treasure hunter, there are 3 guardians in the maze and kills anyone who is looking for the treasures. If a guardian and the treasure hunter occupy the same cell, the guardian kills the treasure hunter and the player loses the game (note: it is possible to have more than one guardian in the same cell). Fortunately, the guardians are not very smart, so they cannot track the treasure hunter: they move pseudo-randomly and are not affected by where the treasure hunter is.
+This is a treasure hunt game where players need to control treasure hunters to 	collect artifacts hidden in the maze. Whenever a treasure hunter reaches a cell 	with a relic, the treasure hunter automatically collects that relic, and another 	relic will appear somewhere in the maze.
+
+Unfortunately for treasure hunters, there are 3 guards in the maze and will kill 	anyone looking for treasure. If the guardian and treasure hunter occupy the 	same square, the guardian kills the treasure hunter and the player loses the 	game (note: there may be multiple guardians in the same square). Luckily the 	Guardians aren't very smart, so they can't track the treasure hunter: they move 	pseudo-randomly and are not affected by the treasure hunter's location.
 
 ## Getting Started
 
